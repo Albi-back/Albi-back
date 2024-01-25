@@ -6,9 +6,9 @@
 
 ## Github stats and top languages
 
-[![Albi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albi-back&theme=gotham)](https://github.com/Albi-back/github-readme-stats)
+[![Albi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albi-back&theme=gotham&include_all_commits&card_width=500)](https://github.com/Albi-back/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albi-back&theme=gotham)](https://github.com/Albi-back/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albi-back&theme=gotham&include_all_commits&card_width=500)](https://github.com/Albi-back/github-readme-stats)
 
 <!--
 **Albi-back/Albi-back** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
