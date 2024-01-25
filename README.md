@@ -12,7 +12,7 @@
 [![Albi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albi-back&theme=gotham&include_all_commits=true&card_width=500)](https://github.com/Albi-back/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albi-back&theme=gotham&include_all_commits=true&card_width=500)](https://github.com/Albi-back/github-readme-stats)
-
+[<kbd> <br> My LinkedIn <br> </kbd>](https://www.linkedin.com/in/albi-douglas-waller-a84782221/)
 <!--
 **Albi-back/Albi-back** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
