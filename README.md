@@ -1,7 +1,7 @@
 Reference-style: 
-![alt text][logo]
+![logo]
 
-[logo]: https://github.com/Albi-back
+[logo]: https://github.com/Albi-back/github-header-image.png
 
 
 
